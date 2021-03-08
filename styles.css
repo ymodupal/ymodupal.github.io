@@ -872,11 +872,10 @@ body {
   }
   
   footer .links {
-    float: right;
     font-size: 13px;
     height: 30px;
     line-height: 30px;
-    margin-left: 20px;
+    text-align: center;
   }
   
   footer .links a {
